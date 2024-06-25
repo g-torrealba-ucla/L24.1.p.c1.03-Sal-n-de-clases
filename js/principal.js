@@ -29,7 +29,7 @@ salon.procesarEstudiante(estud4);
 let salida = document.getElementById("salida");
 
 salida.innerHTML = `
-<br>Edad promedio: ${salon.edadPromedio()}
+<br>Edad promedio....: ${salon.edadPromedio()}
 <br>Estudiante con mayor edad: ${salon.nombreMayorEdad()}
 <br>Porcentaje de chicas mayor de edad: ${salon.porcChicasMayEdad()}%
 `;
