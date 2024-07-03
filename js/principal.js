@@ -28,7 +28,7 @@ salon.procesarEstudiante(estud4);
 
 let salida = document.getElementById("salida");
 
-alert ('SALUDOS PIEDRA !!!')
+alert ('BIENVENIDOS CHICOS !!!')
 
 salida.innerHTML = `
 <br>Edad promedio: ${salon.edadPromedio()}
